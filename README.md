@@ -3,14 +3,14 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1200&color=0AEFFF&center=true&vCenter=true&width=900&lines=Dexel+Software+Solution;Enterprise-Grade+Software+Engineering;Secure+%7C+Scalable+%7C+Intelligent+Systems;Engineering+Technology+That+Lasts" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1200&color=0AEFFF&center=true&vCenter=true&width=900&lines=Dexel+Software+Solutions;Enterprise-Grade+Software+Engineering;Secure+%7C+Scalable+%7C+Intelligent+Systems;Engineering+Technology+That+Lasts" />
 </p>
 
 ---
 
 ## 🏢 Company Overview
 
-**Dexel Software Solution** is a **professional software engineering company** delivering  
+**Dexel Software Solutions** is a **professional software engineering company** delivering  
 **secure, scalable, and high-performance digital solutions** for businesses and organizations.
 
 We follow **industry-standard engineering practices**, **security-first development**, and  
@@ -52,12 +52,12 @@ We follow **industry-standard engineering practices**, **security-first developm
 ## 📈 Engineering & GitHub Metrics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DexelSoftwareSolution&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DexelSoftwareSolution&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dexel-Software-Solutions&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dexel-Software-Solutions&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=DexelSoftwareSolution&theme=github-compact&hide_border=true" />
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dexel-Software-Solutions&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -110,12 +110,12 @@ We are open to:
 ## 👁️ Company Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DexelSoftwareSolution&label=Company%20Profile%20Views&color=0AEFFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Dexel-Software-Solutions&label=Company%20Profile%20Views&color=0AEFFF&style=flat-square" />
 </p>
 
 ---
 
 <p align="center">
-  <b>Dexel Software Solution</b><br/>
+  <b>Dexel Software Solutions</b><br/>
   <i>Secure • Scalable • Intelligent Software Engineering</i>
 </p>
