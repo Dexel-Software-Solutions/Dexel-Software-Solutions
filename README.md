@@ -89,9 +89,9 @@ We follow **industry-standard engineering practices**, **security-first developm
 </p>
 
 ### 📬 Official Contacts
-- 📧 **Business Email:** `contact@dexelsoftware.com`  
-- 💼 **GitHub Organization:** DexelSoftwareSolution  
-- 🔗 **LinkedIn:** Dexel Software Solution  
+- 📧 **Business Email:** `dexelsoftwaresolutions@gmail.com`  
+- 💼 **GitHub Organization:** DexelSoftwareSolutions  
+- 🔗 **LinkedIn:** Dexel Software Solutions  
 - 🌍 **Website:** *(Coming Soon)*  
 
 ---
