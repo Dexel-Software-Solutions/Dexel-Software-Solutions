@@ -76,15 +76,16 @@ We follow **industry-standard engineering practices**, **security-first developm
 ## 📞 Contact & Business Information
 
 <p align="center">
-  <a href="mailto:contact@dexelsoftware.com">
+  <a href="dexelsoftwaresolutions@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact@dexelsoftware.com-0AEFFF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://github.com/DexelSoftwareSolution">
+  <a href="Dexel-Software-Solutions">
     <img src="https://img.shields.io/badge/GitHub-DexelSoftwareSolution-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Dexel%20Software%20Solution-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://wa.me/94729504289">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20Dexel%20Software%20Solution-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 </p>
 
 ### 📬 Official Contacts
