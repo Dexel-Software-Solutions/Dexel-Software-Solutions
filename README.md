@@ -41,6 +41,7 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 | Project | Description |
 |------|------------|
+|**Advanced-Password-Security-Auditor** | Password Security Auditor Cross Platform Software |
 | **DEX Antivirus** | Rust-based Desktop Security Solution |
 | **Hospital Management System** | Enterprise Healthcare Platform |
 | **Secure Code Analyzer** | Developer-Focused Security Tool |
