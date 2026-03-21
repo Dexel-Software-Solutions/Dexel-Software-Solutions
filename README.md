@@ -48,6 +48,7 @@ We follow **industry-standard engineering practices**, **security-first developm
 | **Secure Code Analyzer** | Developer-Focused Security Tool |
 | **AI E-Learning Platform** | Intelligent Learning Ecosystem |
 | **Business Automation Suite** | Process Optimization Systems |
+| **Phantom-Framework** | new |
 
 ---
 
