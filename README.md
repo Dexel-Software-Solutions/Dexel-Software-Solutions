@@ -123,8 +123,8 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dexel-Software-Solutions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0AEFFF&icon_color=0AEFFF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexel-Software-Solutions&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Dexel-Software-Solutions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0AEFFF&icon_color=0AEFFF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Dexel-Software-Solutions&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=ffffff"/>
 
 </div>
 
