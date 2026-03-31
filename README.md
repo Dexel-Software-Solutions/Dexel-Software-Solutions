@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AEFFF,50:0066FF,100:000000&height=200&section=header&text=Dexel%20Software%20Solutions&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Secure%20%7C%20Scalable%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
 </div>
-
+ 
 <div align="center">
 
 <!-- Animated Typing SVG -->
