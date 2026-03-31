@@ -106,6 +106,14 @@ We follow **industry-standard engineering practices**, **security-first developm
 | **AI E-Learning Platform** | Intelligent Learning Ecosystem | 🎓 AI/EdTech |
 | **Business Automation Suite** | Process Optimization Systems | ⚙️ Automation |
 | **Phantom-Framework** | Offensive Security Framework for Ethical Hackers | 👻 Security |
+| **Honeypot-Detector** | Local Network Honeypot Detection & Analysis Tool | 🛡️ Security |
+| **Auto-Bug-Finder** | Industrial-Grade Static Code Analyzer for Python & Java | 🔴 DevSec |
+| **NexusJS-Framework** | Ultra Powerful JavaScript Framework — Faster than React | ⚡ Framework |
+| **CyberForge** | Advanced Cyber Security Toolkit — Pure Bash, 20+ Modules | 🔧 Security |
+| **NovaCSS-Framework** | Professional-Grade CSS Framework with Dark Mode & Glassmorphism | 🎨 Framework |
+| **PortSentinel** | Real-time Network Port Monitoring & Anomaly Detection Desktop App | 🔬 Security |
+| **DEXEL-IP-INTEL** | Advanced IP Address Intelligence & Risk Analysis Terminal Tool | 🌐 Security |
+| **Anon-Encrypter** | Lightweight High-Security Multi-Layer Text & File Encryption Tool | 🔒 Security |
 
 </div>
 
