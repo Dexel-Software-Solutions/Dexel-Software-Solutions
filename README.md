@@ -98,6 +98,7 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 | 🚀 Project | 📝 Description | 🏷️ Category |
 |---|---|---|
+| **Subdomain Hunter** |  A multi-source subdomain enumeration tool | 🔐 Cybersecurity |
 | **Python Script Encoder** | A powerful CLI-based Python source code encoder | 🔑Security |
 | **Dexel Clock** | Dexel Analog Clock Application | ⏰ Utility |
 | **Advanced-Password-Security-Auditor** | Cross-Platform Password Security Auditor | 🔐 Security |
