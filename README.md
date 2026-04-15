@@ -121,7 +121,7 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 ---
 
-## 📊 GitHub Metrics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Metrics
 
 <div align="center">
 
@@ -142,32 +142,6 @@ We follow **industry-standard engineering practices**, **security-first developm
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dexel-Software-Solutions&bg_color=0d1117&color=0AEFFF&line=0066FF&point=ffffff&area=true&hide_border=true&cache_seconds=86400" width="95%" />
 
 </div>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Metrics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Dexel-Software-Solutions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0AEFFF&icon_color=0AEFFF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Dexel-Software-Solutions&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dexel-Software-Solutions&theme=tokyonight&hide_border=true&background=0d1117&stroke=0AEFFF&ring=0AEFFF&fire=FF6B35&currStreakLabel=0AEFFF" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dexel-Software-Solutions&bg_color=0d1117&color=0AEFFF&line=0066FF&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Quality & Security Standards
