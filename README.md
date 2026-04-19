@@ -96,26 +96,41 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🏷️ Category |
-|---|---|---|
-| **Subdomain Hunter** |  A multi-source subdomain enumeration tool | 🔐 Cybersecurity |
-| **Python Script Encoder** | A powerful CLI-based Python source code encoder | 🔑Security |
-| **Dexel Clock** | Dexel Analog Clock Application | ⏰ Utility |
-| **Advanced-Password-Security-Auditor** | Cross-Platform Password Security Auditor | 🔐 Security |
-| **DEX Antivirus** | Rust-based Desktop Security Solution | 🛡️ Security |
-| **Hospital Management System** | Enterprise Healthcare Platform | 🏥 Enterprise |
-| **Secure Code Analyzer** | Developer-Focused Security Tool | 🔍 DevSec |
-| **AI E-Learning Platform** | Intelligent Learning Ecosystem | 🎓 AI/EdTech |
-| **Business Automation Suite** | Process Optimization Systems | ⚙️ Automation |
-| **Phantom-Framework** | Offensive Security Framework for Ethical Hackers | 👻 Security |
-| **Honeypot-Detector** | Local Network Honeypot Detection & Analysis Tool | 🛡️ Security |
-| **Auto-Bug-Finder** | Industrial-Grade Static Code Analyzer for Python & Java | 🔴 DevSec |
-| **NexusJS-Framework** | Ultra Powerful JavaScript Framework — Faster than React | ⚡ Framework |
-| **CyberForge** | Advanced Cyber Security Toolkit — Pure Bash, 20+ Modules | 🔧 Security |
-| **NovaCSS-Framework** | Professional-Grade CSS Framework with Dark Mode & Glassmorphism | 🎨 Framework |
-| **PortSentinel** | Real-time Network Port Monitoring & Anomaly Detection Desktop App | 🔬 Security |
-| **DEXEL-IP-INTEL** | Advanced IP Address Intelligence & Risk Analysis Terminal Tool | 🌐 Security |
-| **Anon-Encrypter** | Lightweight High-Security Multi-Layer Text & File Encryption Tool | 🔒 Security |
+| 🚀 Project | 🧠 What It Does | ⚙️ Tech | 🎯 Category |
+|---|---|---|---|
+| **[MIRAGE](https://github.com/Dexel-Software-Solutions/MIRAGE)** | Deception-first security framework with honeypots & attacker traps | Python | 🛡️ Cyber Defense |
+| **[Phantom-Framework](https://github.com/Dexel-Software-Solutions/Phantom-Framework)** | Modular penetration testing framework with OSINT & automation | Python | 👻 Offensive Security |
+| **[Auto-bug-finder](https://github.com/Dexel-Software-Solutions/Auto-bug-finder)** | Static analyzer for Python & Java vulnerabilities | Python | 🔴 DevSecOps |
+| **[Subdomain-hunter](https://github.com/Dexel-Software-Solutions/Subdomain-hunter)** | Multi-source subdomain enumeration & risk scoring | Python | 🌐 Recon |
+| **[PortSentinel](https://github.com/Dexel-Software-Solutions/PortSentinel)** | Real-time port monitoring & anomaly detection | Java | 🔬 Network Security |
+| **[Linux-Command-Center](https://github.com/Dexel-Software-Solutions/Linux-Command-Center)** | GUI-based Linux command suite (200+ commands) | Python | 🖥️ Utility |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"> Full Project Portfolio
+
+<div align="center">
+
+| 🧩 Project | 📌 Description | ⚙️ Tech | 🏷️ Category |
+|---|---|---|---|
+| **AI-MEETING-ASSISTANT** | AI-powered meeting assistant overlay tool | Python | 🤖 AI |
+| **MIRAGE** | Deception-based security framework | Python | 🛡️ Security |
+| **Linux-Command-Center** | Linux GUI command toolkit | Python | 🖥️ Utility |
+| **Subdomain-hunter** | Subdomain enumeration & recon tool | Python | 🌐 Recon |
+| **Python-script-encoder** | Multi-layer Python code protection tool | Python | 🔑 Security |
+| **Honeypot-detector** | Local network honeypot detection system | Python | 🛡️ Security |
+| **Auto-bug-finder** | Static code analyzer (Python/Java) | Python | 🔴 DevSec |
+| **Phantom-Framework** | Pentesting & recon framework | Python | 👻 Offensive |
+| **CyberForge** | Bash-based cybersecurity toolkit (20+ modules) | Bash | 🔧 Toolkit |
+| **NexusJS-Framework** | JavaScript framework (experimental) | JS | ⚡ Framework |
+| **NovaCSS-Framework** | Utility-first CSS framework | CSS | 🎨 UI Framework |
+| **PortSentinel** | Port monitoring & anomaly detection | Java | 🔬 Network |
+| **DEXEL-IP-INTEL** | IP intelligence & risk analysis tool | Python | 🌍 Intelligence |
+| **Advanced-Password-Security-Auditor** | Password strength & breach analyzer | Python | 🔐 Security |
+| **Anon-Encrypter** | Multi-layer encryption tool | Python | 🔒 Security |
+| **Dexel-Clock** | Desktop clock application | Python | ⏰ Utility |
 
 </div>
 
