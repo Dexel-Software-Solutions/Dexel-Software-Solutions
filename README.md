@@ -146,6 +146,10 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dexel-Software-Solutions&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=ffffff&cache_seconds=86400"/>
 
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dexel-Software-Solutions&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=c9d1d9"/>
+</a>
+
 </div>
 
 <div align="center">
