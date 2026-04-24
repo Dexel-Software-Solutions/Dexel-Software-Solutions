@@ -94,16 +94,18 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Flagship Projects
 
+## 🚀 Flagship Projects
+
 <div align="center">
 
-| 🚀 Project | 🧠 What It Does | ⚙️ Tech | 🎯 Category |
+| 🚀 Project | 🧠 Description | ⚙️ Stack | 🎯 Domain |
 |---|---|---|---|
-| **[MIRAGE](https://github.com/Dexel-Software-Solutions/MIRAGE)** | Deception-first security framework with honeypots & attacker traps | Python | 🛡️ Cyber Defense |
-| **[Phantom-Framework](https://github.com/Dexel-Software-Solutions/Phantom-Framework)** | Modular penetration testing framework with OSINT & automation | Python | 👻 Offensive Security |
-| **[Auto-bug-finder](https://github.com/Dexel-Software-Solutions/Auto-bug-finder)** | Static analyzer for Python & Java vulnerabilities | Python | 🔴 DevSecOps |
-| **[Subdomain-hunter](https://github.com/Dexel-Software-Solutions/Subdomain-hunter)** | Multi-source subdomain enumeration & risk scoring | Python | 🌐 Recon |
-| **[PortSentinel](https://github.com/Dexel-Software-Solutions/PortSentinel)** | Real-time port monitoring & anomaly detection | Java | 🔬 Network Security |
-| **[Linux-Command-Center](https://github.com/Dexel-Software-Solutions/Linux-Command-Center)** | GUI-based Linux command suite (200+ commands) | Python | 🖥️ Utility |
+| **MIRAGE** | Deception-first security framework with honeypots & attacker traps | Python | 🛡️ Cyber Defense |
+| **Phantom Framework** | Modular pentesting framework with OSINT & automation | Python | 👻 Offensive Security |
+| **Auto Bug Finder** | Static analyzer detecting vulnerabilities in codebases | Python | 🔴 DevSecOps |
+| **Subdomain Hunter** | Multi-source subdomain enumeration & risk scoring | Python | 🌐 Recon |
+| **PortSentinel** | Real-time port monitoring with anomaly detection | Java | 🔬 Network Security |
+| **Linux Command Center** | GUI-based Linux command suite (200+ tools) | Python | 🖥️ Utility |
 
 </div>
 
@@ -113,25 +115,24 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 <div align="center">
 
-| 🧩 Project | 📌 Description | ⚙️ Tech | 🏷️ Category |
+| 🧩 Project | 📌 Overview | ⚙️ Tech | 🏷️ Category |
 |---|---|---|---|
-| **GHOSTWRITER** | Behavioral threat intelligence engine that fingerprints attacker behavior and correlates activity across rotating IPs| Go | 🛡️ Cybersecurity / Threat Intelligence |
-| **AI-MEETING-ASSISTANT** | AI-powered meeting assistant overlay tool | Python | 🤖 AI |
-| **MIRAGE** | Deception-based security framework | Python | 🛡️ Security |
-| **Linux-Command-Center** | Linux GUI command toolkit | Python | 🖥️ Utility |
-| **Subdomain-hunter** | Subdomain enumeration & recon tool | Python | 🌐 Recon |
-| **Python-script-encoder** | Multi-layer Python code protection tool | Python | 🔑 Security |
-| **Honeypot-detector** | Local network honeypot detection system | Python | 🛡️ Security |
-| **Auto-bug-finder** | Static code analyzer (Python/Java) | Python | 🔴 DevSec |
-| **Phantom-Framework** | Pentesting & recon framework | Python | 👻 Offensive |
+| **GHOSTWRITER** | Behavioral threat intelligence engine tracking attacker patterns | Go | 🛡️ Threat Intelligence |
+| **AI Meeting Assistant** | AI-powered smart meeting overlay & assistant | Python | 🤖 AI Systems |
+| **MIRAGE** | Deception-based cyber defense framework | Python | 🛡️ Security |
+| **Phantom Framework** | Advanced pentesting & recon toolkit | Python | 👻 Offensive Security |
+| **Auto Bug Finder** | Static vulnerability scanner (Python/Java) | Python | 🔴 DevSecOps |
+| **Subdomain Hunter** | Subdomain discovery & recon engine | Python | 🌐 Recon |
+| **DEXEL IP INTEL** | IP intelligence & threat scoring system | Python | 🌍 Intelligence |
+| **Honeypot Detector** | Local network honeypot detection tool | Python | 🛡️ Security |
+| **Anon Encrypter** | Multi-layer encryption system | Python | 🔒 Cryptography |
+| **Password Security Auditor** | Password strength & breach analyzer | Python | 🔐 Security |
 | **CyberForge** | Bash-based cybersecurity toolkit (20+ modules) | Bash | 🔧 Toolkit |
-| **NexusJS-Framework** | JavaScript framework (experimental) | JS | ⚡ Framework |
-| **NovaCSS-Framework** | Utility-first CSS framework | CSS | 🎨 UI Framework |
-| **PortSentinel** | Port monitoring & anomaly detection | Java | 🔬 Network |
-| **DEXEL-IP-INTEL** | IP intelligence & risk analysis tool | Python | 🌍 Intelligence |
-| **Advanced-Password-Security-Auditor** | Password strength & breach analyzer | Python | 🔐 Security |
-| **Anon-Encrypter** | Multi-layer encryption tool | Python | 🔒 Security |
-| **Dexel-Clock** | Desktop clock application | Python | ⏰ Utility |
+| **Linux Command Center** | GUI Linux command utility suite | Python | 🖥️ Utility |
+| **PortSentinel** | Network port monitoring system | Java | 🔬 Network |
+| **NexusJS Framework** | Experimental JavaScript framework | JS | ⚡ Framework |
+| **NovaCSS Framework** | Utility-first CSS framework | CSS | 🎨 UI Framework |
+| **Dexel Clock** | Lightweight desktop clock app | Python | ⏰ Utility |
 
 </div>
 
