@@ -115,6 +115,7 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 | 🧩 Project | 📌 Description | ⚙️ Tech | 🏷️ Category |
 |---|---|---|---|
+| **GHOSTWRITER** | Behavioral threat intelligence engine that fingerprints attacker behavior and correlates activity across rotating IPs| Go | 🛡️ Cybersecurity / Threat Intelligence |
 | **AI-MEETING-ASSISTANT** | AI-powered meeting assistant overlay tool | Python | 🤖 AI |
 | **MIRAGE** | Deception-based security framework | Python | 🛡️ Security |
 | **Linux-Command-Center** | Linux GUI command toolkit | Python | 🖥️ Utility |
