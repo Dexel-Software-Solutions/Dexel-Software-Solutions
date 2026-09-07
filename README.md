@@ -137,27 +137,30 @@ We follow **industry-standard engineering practices**, **security-first developm
 </div>
 
 ---
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dexel-Software-Solutions&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0AEFFF&icon_color=0AEFFF&text_color=ffffff&cache_seconds=86400"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Dexel-Software-Solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0AEFFF&icon_color=0AEFFF&text_color=ffffff"/>
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dexel-Software-Solutions&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dexel-Software-Solutions&theme=tokyonight&hide_border=true&background=0d1117&stroke=0AEFFF&ring=0AEFFF&fire=FF6B35&currStreakLabel=0AEFFF&cache_seconds=86400" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexel-Software-Solutions&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dexel-Software-Solutions&bg_color=0d1117&color=0AEFFF&line=0066FF&point=ffffff&area=true&hide_border=true&cache_seconds=86400" width="95%" />
+<img
+src="https://streak-stats.demolab.com?user=Dexel-Software-Solutions&theme=tokyonight&hide_border=true&background=0d1117&stroke=0AEFFF&ring=0AEFFF&fire=FF6B35&currStreakLabel=0AEFFF"/>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Dexel-Software-Solutions&bg_color=0d1117&color=0AEFFF&line=0066FF&point=ffffff&area=true&hide_border=true"
+width="95%"/>
 
 </div>
 ---
