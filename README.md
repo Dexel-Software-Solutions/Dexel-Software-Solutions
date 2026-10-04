@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AEFFF,50:0066FF,100:000000&height=200&section=header&text=Dexel%20Software%20Solutions&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Secure%20%7C%20Scalable%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AEFFF,50:0066FF,100:000000&height=200&section=header&text=Dexel%20Software%20Solutions&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Secure%20%7C%20Scalable%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Dexel Software Solutions banner" />
 
-</div>
- 
-<div align="center">
-
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0AEFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Enterprise-Grade+Software+Engineering+%F0%9F%9A%80;Secure+%2B+Scalable+%2B+Intelligent+Systems+%F0%9F%94%90;Engineering+Technology+That+Lasts+%E2%9C%85;AI+%7C+Cyber+Security+%7C+Full-Stack+Dev+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0AEFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Enterprise-Grade+Software+Engineering+%F0%9F%9A%80;Secure+%2B+Scalable+%2B+Intelligent+Systems+%F0%9F%94%90;Engineering+Technology+That+Lasts+%E2%9C%85;AI+%7C+Cyber+Security+%7C+Full-Stack+Dev+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/>
 
-<!-- Animated Badges -->
+[![Corporate Website](https://img.shields.io/badge/Corporate_Website-dexelglobalholdings.web.app-0AEFFF?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d1117)](https://dexelglobalholdings.web.app/)
+[![Founder Portfolio](https://img.shields.io/badge/Founder_Portfolio-demiyandissanayakeofficial.web.app-0066FF?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0d1117)](https://demiyandissanayakeofficial.web.app/)
+
 ![GitHub followers](https://img.shields.io/github/followers/Dexel-Software-Solutions?style=for-the-badge&color=0AEFFF&labelColor=0d1117&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=Dexel-Software-Solutions&label=Profile+Views&color=0AEFFF&style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-dexelsoftwaresolutions@gmail.com-0AEFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:dexelsoftwaresolutions@gmail.com)
@@ -22,59 +18,100 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🏢 Company Overview
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Company Overview
+**Dexel Software Solutions** is an independent software engineering company based in Sri Lanka, delivering **secure, scalable and intelligent digital systems** for businesses and organizations worldwide.
 
-**Dexel Software Solutions** is a **professional software engineering company** delivering  
-**secure, scalable, and high-performance digital solutions** for businesses and organizations worldwide.
+We follow **industry-standard engineering practices**, **security-first development**, and **clean, maintainable architectures** built for long-term success.
 
-We follow **industry-standard engineering practices**, **security-first development**, and  
-**clean, maintainable architectures** designed for long-term success.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| 🎯 Vision | 🧭 Mission |
+|:---|:---|
+| To build intelligent, secure and scalable digital systems that solve meaningful business and technology problems, while maintaining strong engineering standards. | To create thoughtful software that combines quality engineering, security awareness, innovation and maintainability, with measurable business value for every client. |
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Core Services
+## 🌐 Official Websites
 
 <div align="center">
 
-| 🖥️ Enterprise Software | 🌐 Web & Mobile Apps | 🤖 AI & Automation |
-|:---:|:---:|:---:|
-| Custom enterprise-grade systems | Full-stack web & mobile engineering | AI-driven systems & intelligent automation |
+<table>
+<tr>
+<td align="center" width="50%">
 
-| 🔐 Cyber Security | 🖱️ Desktop Applications | ⚙️ Business Solutions |
-|:---:|:---:|:---:|
-| Threat analysis & security tools | Cross-platform desktop apps | Custom workflow optimization |
+### 🏛️ Dexel Corporate Profile
+*Company capabilities, services, methodology & project showcase*
+
+[![Visit](https://img.shields.io/badge/Visit_Website-0AEFFF?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117)](https://dexelglobalholdings.web.app/)
+
+`dexelglobalholdings.web.app`
+
+</td>
+<td align="center" width="50%">
+
+### 👤 Demiyan Dissanayake — Founder & CEO
+*Executive portfolio, certifications, projects, CV & achievements*
+
+[![Visit](https://img.shields.io/badge/Visit_Portfolio-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://demiyandissanayakeofficial.web.app/)
+
+`demiyandissanayakeofficial.web.app`
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Technology Stack
+## 🛠️ Core Services
+
+<div align="center">
+
+| 🖥️ Enterprise Software | 🌐 Web & Mobile Apps | 🤖 AI & Automation |
+|:---:|:---:|:---:|
+| Custom enterprise-grade systems | Full-stack web & React Native mobile engineering | AI-assisted systems & intelligent workflow automation |
+
+| 🔐 Cyber Security | 🖱️ Desktop Applications | ⚙️ Business Solutions |
+|:---:|:---:|:---:|
+| Defensive research, threat analysis & authorized testing tools | Cross-platform desktop apps (Python, Java) | CRM, inventory, school & hospital management systems |
+
+| ☁️ Cloud & Infrastructure | 💡 Technical Consulting | 🧩 Custom Digital Solutions |
+|:---:|:---:|:---:|
+| Docker, AWS, Linux & deployment foundations | Architecture, system design & delivery planning | Tailored solutions for unique operational challenges |
+
+</div>
+
+---
+
+## 🧰 Technology Stack
 
 <div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -84,152 +121,162 @@ We follow **industry-standard engineering practices**, **security-first developm
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Flagship Projects
 
 ## 🚀 Flagship Projects
 
 <div align="center">
 
-| 🚀 Project | 🧠 Description | ⚙️ Stack | 🎯 Domain |
-|---|---|---|---|
-| **MIRAGE** | Deception-first security framework with honeypots & attacker traps | Python | 🛡️ Cyber Defense |
-| **Phantom Framework** | Modular pentesting framework with OSINT & automation | Python | 👻 Offensive Security |
-| **Auto Bug Finder** | Static analyzer detecting vulnerabilities in codebases | Python | 🔴 DevSecOps |
-| **Subdomain Hunter** | Multi-source subdomain enumeration & risk scoring | Python | 🌐 Recon |
-| **PortSentinel** | Real-time port monitoring with anomaly detection | Java | 🔬 Network Security |
-| **Linux Command Center** | GUI-based Linux command suite (200+ tools) | Python | 🖥️ Utility |
+| Project | Description | Stack | Domain |
+|---|---|:---:|---|
+| [**MIRAGE**](https://github.com/Dexel-Software-Solutions/MIRAGE) | Deception-first security framework with honeypots & attacker traps | Python | 🛡️ Cyber Defense |
+| [**PHANTOMNET**](https://github.com/Dexel-Software-Solutions/PHANTOMNET) | AI-driven moving-target defense that morphs a personalized fake network per attacker | Python | 🌀 Moving Target Defense |
+| [**Phantom Framework**](https://github.com/Dexel-Software-Solutions/Phantom-Framework) | Modular pentesting framework with OSINT, DNS recon, CVE intel & automated reporting | Python | 👻 Authorized Testing |
+| [**GHOSTWRITER**](https://github.com/Dexel-Software-Solutions/GHOSTWRITER) | Behavioral threat intelligence engine tracking attacker patterns across IP rotation | Go | 🧠 Threat Intelligence |
+| [**VEXA**](https://github.com/Dexel-Software-Solutions/VEXA-Realtime-Chat-App) | Real-time cross-platform mobile chat with WebSockets & MySQL | TypeScript | 📱 Mobile / Full-Stack |
+| [**AI Meeting Assistant**](https://github.com/Dexel-Software-Solutions/AI-MEETING-ASSISTANT) | AI-powered smart desktop meeting overlay & note-taking assistant | Python | 🤖 AI Systems |
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"> Full Project Portfolio
+## 📚 Full Project Portfolio
 
 <div align="center">
 
-| 🧩 Project | 📌 Overview | ⚙️ Tech | 🏷️ Category |
-|---|---|---|---|
-| **GHOSTWRITER** | Behavioral threat intelligence engine tracking attacker patterns | Go | 🛡️ Threat Intelligence |
-| **AI Meeting Assistant** | AI-powered smart meeting overlay & assistant | Python | 🤖 AI Systems |
-| **MIRAGE** | Deception-based cyber defense framework | Python | 🛡️ Security |
-| **Phantom Framework** | Advanced pentesting & recon toolkit | Python | 👻 Offensive Security |
-| **Auto Bug Finder** | Static vulnerability scanner (Python/Java) | Python | 🔴 DevSecOps |
-| **Subdomain Hunter** | Subdomain discovery & recon engine | Python | 🌐 Recon |
-| **DEXEL IP INTEL** | IP intelligence & threat scoring system | Python | 🌍 Intelligence |
-| **Honeypot Detector** | Local network honeypot detection tool | Python | 🛡️ Security |
-| **Anon Encrypter** | Multi-layer encryption system | Python | 🔒 Cryptography |
-| **Password Security Auditor** | Password strength & breach analyzer | Python | 🔐 Security |
-| **CyberForge** | Bash-based cybersecurity toolkit (20+ modules) | Bash | 🔧 Toolkit |
-| **Linux Command Center** | GUI Linux command utility suite | Python | 🖥️ Utility |
-| **PortSentinel** | Network port monitoring system | Java | 🔬 Network |
-| **NexusJS Framework** | Experimental JavaScript framework | JS | ⚡ Framework |
-| **NovaCSS Framework** | Utility-first CSS framework | CSS | 🎨 UI Framework |
-| **Dexel Clock** | Lightweight desktop clock app | Python | ⏰ Utility |
+| Project | Overview | Tech | Category |
+|---|---|:---:|---|
+| [**MIRAGE**](https://github.com/Dexel-Software-Solutions/MIRAGE) | Deception-based cyber defense framework | Python | 🛡️ Security |
+| [**PHANTOMNET**](https://github.com/Dexel-Software-Solutions/PHANTOMNET) | Autonomous deceptive network topology morphing | Python | 🌀 Defense Research |
+| [**Phantom Framework**](https://github.com/Dexel-Software-Solutions/Phantom-Framework) | Advanced pentesting & recon toolkit | Python | 👻 Offensive Security |
+| [**GHOSTWRITER**](https://github.com/Dexel-Software-Solutions/GHOSTWRITER) | Behavioral threat intelligence engine | Go | 🧠 Threat Intelligence |
+| [**Auto Bug Finder**](https://github.com/Dexel-Software-Solutions/Auto-bug-finder) | Static vulnerability & code-quality analyzer (Python/Java) | Python | 🔴 DevSecOps |
+| [**DEXEL IP INTEL**](https://github.com/Dexel-Software-Solutions/DEXEL-IP-INTEL) | IP intelligence & risk scoring system | Python | 🌍 Intelligence |
+| [**PortSentinel**](https://github.com/Dexel-Software-Solutions/PortSentinel) | Real-time port monitoring & anomaly detection | Java | 🔬 Network Security |
+| [**CyberForge**](https://github.com/Dexel-Software-Solutions/CyberForge) | Pure-Bash cybersecurity toolkit (20+ modules) | Bash | 🔧 Toolkit |
+| [**Password Security Auditor**](https://github.com/Dexel-Software-Solutions/Advanced-Password-Security-Auditor) | Password entropy & breach analyzer | Python | 🔐 Security |
+| [**Anon Encrypter**](https://github.com/Dexel-Software-Solutions/Anon-Encrypter) | Multi-layer encryption system | Python | 🔒 Cryptography |
+| [**Linux Command Center**](https://github.com/Dexel-Software-Solutions/Linux-Command-Center) | GUI Linux command suite (200+ tools) | Python | 🖥️ Utility |
+| [**VEXA Realtime Chat**](https://github.com/Dexel-Software-Solutions/VEXA-Realtime-Chat-App) | Real-time mobile chat platform | TypeScript | 📱 Mobile |
+| [**AI Meeting Assistant**](https://github.com/Dexel-Software-Solutions/AI-MEETING-ASSISTANT) | AI-powered meeting overlay | Python | 🤖 AI Systems |
+| [**NexusJS Framework**](https://github.com/Dexel-Software-Solutions/NexusJS-Framework) | Signal-based, zero-VDOM JavaScript framework | JS | ⚡ Framework |
+| [**NovaCSS Framework**](https://github.com/Dexel-Software-Solutions/NovaCSS-Framework) | Utility-first CSS framework with glassmorphism & dark mode | CSS | 🎨 UI Framework |
+| [**PythonMasterApp**](https://github.com/Dexel-Software-Solutions/PythonMasterApp) | Offline Python & cybersecurity learning platform | Python | 🎓 EdTech |
+| [**Dexel Clock**](https://github.com/Dexel-Software-Solutions/Dexel-Clock) | Lightweight, modern desktop clock app | Python | ⏰ Utility |
 
 </div>
 
 ---
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Metrics
+
+## 👨‍💻 Leadership
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Dexel-Software-Solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0AEFFF&icon_color=0AEFFF&text_color=ffffff"/>
+**Demiyan Dissanayake** — *Founder & CEO · Software Engineer · Technology Entrepreneur*
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexel-Software-Solutions&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=c9d1d9"/>
+Full-stack engineering · Cybersecurity research · Software architecture · Automation · Digital product development
 
-</div>
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Dexel-Software-Solutions&theme=tokyonight&hide_border=true&background=0d1117&stroke=0AEFFF&ring=0AEFFF&fire=FF6B35&currStreakLabel=0AEFFF"/>
+[![Portfolio](https://img.shields.io/badge/Executive_Portfolio-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://demiyandissanayakeofficial.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Demiyan_Dissanayake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/demiyan-dissanayake/)
+[![Credly](https://img.shields.io/badge/Credly-12_Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=0d1117)](https://www.credly.com/users/demiyan-dissanayake)
+[![CV](https://img.shields.io/badge/Download-CV-0AEFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black&labelColor=0d1117)](https://demiyandissanayakeofficial.web.app/assests/pdf/cv.pdf)
 
 </div>
 
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Dexel-Software-Solutions&bg_color=0d1117&color=0AEFFF&line=0066FF&point=ffffff&area=true&hide_border=true"
-width="95%"/>
-
-</div>
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Quality & Security Standards
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dexel-Software-Solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0AEFFF&icon_color=0AEFFF&text_color=ffffff" alt="GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexel-Software-Solutions&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=c9d1d9" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Dexel-Software-Solutions&theme=tokyonight&hide_border=true&background=0d1117&stroke=0AEFFF&ring=0AEFFF&fire=FF6B35&currStreakLabel=0AEFFF" alt="Streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dexel-Software-Solutions&bg_color=0d1117&color=0AEFFF&line=0066FF&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity graph"/>
+
+</div>
+
+---
+
+## 🔄 Engineering Methodology
+
+<div align="center">
+
+`Discover` → `Analyze` → `Architect` → `Develop` → `Test` → `Deploy` → `Optimize`
+
+</div>
+
+---
+
+## ✅ Quality & Security Standards
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║            DEXEL QUALITY ASSURANCE STANDARDS            ║
+║            DEXEL QUALITY ASSURANCE STANDARDS             ║
 ╠══════════════════════════════════════════════════════════╣
-║  ✔  Secure-by-Design Development                        ║
-║  ✔  Role-Based Access Control (RBAC)                    ║
-║  ✔  Data Encryption & Compliance Awareness              ║
-║  ✔  Modular & Scalable Architectures                    ║
-║  ✔  Performance Optimization                            ║
-║  ✔  Clean & Maintainable Codebases                      ║
+║  ✔  Secure-by-Design Development                         ║
+║  ✔  Role-Based Access Control (RBAC)                     ║
+║  ✔  Data Encryption & Compliance Awareness               ║
+║  ✔  Modular & Scalable Architectures                     ║
+║  ✔  Performance Optimization                             ║
+║  ✔  Clean & Maintainable Codebases                       ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Contact & Business Information
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Business_Email-dexelsoftwaresolutions@gmail.com-0AEFFF?style=for-the-badge&labelColor=0d1117)](mailto:dexelsoftwaresolutions@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-DexelSoftwareSolutions-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Dexel-Software-Solutions)
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Dexel_Software_Solutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
-
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_with_Dexel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/94729504289)
-
-[![Website](https://img.shields.io/badge/🌍_Website-Coming_Soon-FF6B35?style=for-the-badge&labelColor=0d1117)](#)
-
-</div>
+> 🔐 All security tooling is developed for **defensive research, education and authorized testing only**.
 
 ---
 
-## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35"> Collaboration & Partnerships
+## 🤝 Collaboration & Partnerships
 
 <div align="center">
 
-We are open to working with amazing teams and organizations:
+We are open to working with ambitious teams and organizations:
 
 ![Long-term Enterprise Projects](https://img.shields.io/badge/✅-Long--term_Enterprise_Projects-0AEFFF?style=flat-square&labelColor=0d1117)
 ![Security-focused Development](https://img.shields.io/badge/✅-Security--focused_Development-0AEFFF?style=flat-square&labelColor=0d1117)
 ![Startup & SaaS Partnerships](https://img.shields.io/badge/✅-Startup_%26_SaaS_Partnerships-0AEFFF?style=flat-square&labelColor=0d1117)
 ![Open-source Collaborations](https://img.shields.io/badge/✅-Open--source_Collaborations-0AEFFF?style=flat-square&labelColor=0d1117)
 
-📩 For inquiries, contact us via **[email](mailto:dexelsoftwaresolutions@gmail.com)** or **[GitHub](https://github.com/Dexel-Software-Solutions)**
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## 📬 Contact & Business Information
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 📧 **Business Email** | [dexelsoftwaresolutions@gmail.com](mailto:dexelsoftwaresolutions@gmail.com) |
+| 💬 **WhatsApp** | [+94 72 950 4289](https://wa.me/94729504289) |
+| 🌍 **Corporate Website** | [dexelglobalholdings.web.app](https://dexelglobalholdings.web.app/) |
+| 👤 **Founder Portfolio** | [demiyandissanayakeofficial.web.app](https://demiyandissanayakeofficial.web.app/) |
+| 🐙 **GitHub** | [Dexel-Software-Solutions](https://github.com/Dexel-Software-Solutions) |
+| 💼 **LinkedIn** | [Demiyan Dissanayake](https://www.linkedin.com/in/demiyan-dissanayake/) |
+| 📍 **Location** | Dankotuwa, Sri Lanka |
+
+</div>
 
 ---
 
 <div align="center">
 
-<!-- Animated Snake Graph - uncomment and update username if GitHub Actions is enabled -->
+<!-- Animated Snake Graph - uncomment if the GitHub Actions workflow is enabled -->
 <!-- <img src="https://raw.githubusercontent.com/Dexel-Software-Solutions/Dexel-Software-Solutions/output/github-contribution-grid-snake-dark.svg" /> -->
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0066FF,100:0AEFFF&height=120&section=footer&text=Dexel%20Software%20Solutions&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0066FF,100:0AEFFF&height=120&section=footer&text=Dexel%20Software%20Solutions&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" alt="Footer" />
 
 <br/>
 
@@ -237,5 +284,7 @@ We are open to working with amazing teams and organizations:
 
 **Dexel Software Solutions**
 *Secure • Scalable • Intelligent Software Engineering*
+
+© 2026 Dexel Software Solutions. All rights reserved.
 
 </div>
