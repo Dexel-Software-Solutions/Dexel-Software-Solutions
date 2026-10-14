@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AEFFF,50:0066FF,100:000000&height=200&section=header&text=Dexel%20Software%20Solutions&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Secure%20%7C%20Scalable%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
 </div>
-
+ 
 <div align="center">
 
 <!-- Animated Typing SVG -->
@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- Badges -->
+<!-- Animated Badges -->
 ![GitHub followers](https://img.shields.io/github/followers/Dexel-Software-Solutions?style=for-the-badge&color=0AEFFF&labelColor=0d1117&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=Dexel-Software-Solutions&label=Profile+Views&color=0AEFFF&style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-dexelsoftwaresolutions@gmail.com-0AEFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:dexelsoftwaresolutions@gmail.com)
@@ -26,10 +26,10 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Company Overview
 
-**Dexel Software Solutions** is a **professional software engineering company** delivering
+**Dexel Software Solutions** is a **professional software engineering company** delivering  
 **secure, scalable, and high-performance digital solutions** for businesses and organizations worldwide.
 
-We follow **industry-standard engineering practices**, **security-first development**, and
+We follow **industry-standard engineering practices**, **security-first development**, and  
 **clean, maintainable architectures** designed for long-term success.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -43,7 +43,9 @@ We follow **industry-standard engineering practices**, **security-first developm
 | 🖥️ Enterprise Software | 🌐 Web & Mobile Apps | 🤖 AI & Automation |
 |:---:|:---:|:---:|
 | Custom enterprise-grade systems | Full-stack web & mobile engineering | AI-driven systems & intelligent automation |
-| **🔐 Cyber Security** | **🖱️ Desktop Applications** | **⚙️ Business Solutions** |
+
+| 🔐 Cyber Security | 🖱️ Desktop Applications | ⚙️ Business Solutions |
+|:---:|:---:|:---:|
 | Threat analysis & security tools | Cross-platform desktop apps | Custom workflow optimization |
 
 </div>
@@ -56,14 +58,11 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Frontend & Mobile**
 
@@ -94,6 +93,8 @@ We follow **industry-standard engineering practices**, **security-first developm
 ---
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Flagship Projects
+
+## 🚀 Flagship Projects
 
 <div align="center">
 
@@ -136,7 +137,6 @@ We follow **industry-standard engineering practices**, **security-first developm
 </div>
 
 ---
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Metrics
 
 <div align="center">
@@ -163,7 +163,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Dexel-Softwa
 width="95%"/>
 
 </div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Quality & Security Standards
@@ -172,14 +171,14 @@ width="95%"/>
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║            DEXEL QUALITY ASSURANCE STANDARDS             ║
+║            DEXEL QUALITY ASSURANCE STANDARDS            ║
 ╠══════════════════════════════════════════════════════════╣
-║  ✔  Secure-by-Design Development                         ║
-║  ✔  Role-Based Access Control (RBAC)                     ║
-║  ✔  Data Encryption & Compliance Awareness               ║
-║  ✔  Modular & Scalable Architectures                     ║
-║  ✔  Performance Optimization                             ║
-║  ✔  Clean & Maintainable Codebases                       ║
+║  ✔  Secure-by-Design Development                        ║
+║  ✔  Role-Based Access Control (RBAC)                    ║
+║  ✔  Data Encryption & Compliance Awareness              ║
+║  ✔  Modular & Scalable Architectures                    ║
+║  ✔  Performance Optimization                            ║
+║  ✔  Clean & Maintainable Codebases                      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -193,10 +192,9 @@ width="95%"/>
 
 [![Email](https://img.shields.io/badge/📧_Business_Email-dexelsoftwaresolutions@gmail.com-0AEFFF?style=for-the-badge&labelColor=0d1117)](mailto:dexelsoftwaresolutions@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-Dexel--Software--Solutions-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Dexel-Software-Solutions)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-DexelSoftwareSolutions-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Dexel-Software-Solutions)
 
-<!-- TODO: replace with your real LinkedIn company/page URL -->
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Dexel_Software_Solutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/company/YOUR-PAGE-HERE)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Dexel_Software_Solutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
 
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_with_Dexel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/94729504289)
 
@@ -227,7 +225,7 @@ We are open to working with amazing teams and organizations:
 
 <div align="center">
 
-<!-- Animated Snake Graph - uncomment if the GitHub Actions snake workflow is enabled -->
+<!-- Animated Snake Graph - uncomment and update username if GitHub Actions is enabled -->
 <!-- <img src="https://raw.githubusercontent.com/Dexel-Software-Solutions/Dexel-Software-Solutions/output/github-contribution-grid-snake-dark.svg" /> -->
 
 <!-- Animated Footer Wave -->
