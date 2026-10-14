@@ -100,7 +100,7 @@ We follow **industry-standard engineering practices**, **security-first developm
 
 | 🚀 Project | 🧠 Description | ⚙️ Stack | 🎯 Domain |
 |---|---|---|---|
-|MiniKV| A lightweight, Redis-inspired in-memory key-value server built with C11, Linux epoll, RESP2, TTL expiration, and AOF persistence|🔑Security|
+|MiniKV| A lightweight, Redis-inspired in-memory key-value server built with C11, Linux epoll, RESP2, TTL expiration, and AOF persistence|C|🔑Security|
 | **MIRAGE** | Deception-first security framework with honeypots & attacker traps | Python | 🛡️ Cyber Defense |
 | **Phantom Framework** | Modular pentesting framework with OSINT & automation | Python | 👻 Offensive Security |
 | **Auto Bug Finder** | Static analyzer detecting vulnerabilities in codebases | Python | 🔴 DevSecOps |
