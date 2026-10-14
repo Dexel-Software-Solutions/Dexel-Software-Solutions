@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AEFFF,50:0066FF,100:000000&height=200&section=header&text=Dexel%20Software%20Solutions&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Secure%20%7C%20Scalable%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Dexel Software Solutions banner" />
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AEFFF,50:0066FF,100:000000&height=200&section=header&text=Dexel%20Software%20Solutions&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Secure%20%7C%20Scalable%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0AEFFF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Security-First+Software+Engineering;Cyber+Security+%7C+AI+%7C+Full-Stack+Development;Building+Software+That+Lasts" alt="Typing animation" />
+</div>
+
+<div align="center">
+
+<!-- Animated Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0AEFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Enterprise-Grade+Software+Engineering+%F0%9F%9A%80;Secure+%2B+Scalable+%2B+Intelligent+Systems+%F0%9F%94%90;Engineering+Technology+That+Lasts+%E2%9C%85;AI+%7C+Cyber+Security+%7C+Full-Stack+Dev+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/>
 
-![Followers](https://img.shields.io/github/followers/Dexel-Software-Solutions?style=for-the-badge&color=0AEFFF&labelColor=0d1117&logo=github)
+<!-- Badges -->
+![GitHub followers](https://img.shields.io/github/followers/Dexel-Software-Solutions?style=for-the-badge&color=0AEFFF&labelColor=0d1117&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=Dexel-Software-Solutions&label=Profile+Views&color=0AEFFF&style=for-the-badge)
-
 [![Email](https://img.shields.io/badge/Email-dexelsoftwaresolutions@gmail.com-0AEFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:dexelsoftwaresolutions@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/94729504289)
 
@@ -16,169 +22,222 @@
 
 ---
 
-## About Us
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Dexel Software Solutions** is a software engineering company based in **Dankotuwa, Sri Lanka**. We design and build secure, maintainable software for businesses and developers, with a strong focus on **cyber security tooling**, **backend systems**, and **full-stack applications**.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Company Overview
 
-Our approach:
+**Dexel Software Solutions** is a **professional software engineering company** delivering
+**secure, scalable, and high-performance digital solutions** for businesses and organizations worldwide.
 
-- **Security-first**: threat modelling and secure defaults from day one.
-- **Clean architecture**: modular, documented, and easy to extend.
-- **Open source**: most of our tools are MIT-licensed and free to use.
+We follow **industry-standard engineering practices**, **security-first development**, and
+**clean, maintainable architectures** designed for long-term success.
 
----
-
-## Core Services
-
-| Service | What we deliver |
-|:--|:--|
-| **Enterprise & Business Software** | Custom systems, workflow automation, internal tools |
-| **Web & Mobile Applications** | Full-stack web apps and cross-platform mobile apps |
-| **Cyber Security Tooling** | Scanners, auditors, deception and defence frameworks |
-| **AI & Automation** | AI-assisted tools and intelligent automation |
-| **Desktop Applications** | Cross-platform GUI and CLI applications |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## Technology Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Frameworks & Databases**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**DevOps & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Description | Language |
-|:--|:--|:--|
-| [**MiniKV**](https://github.com/Dexel-Software-Solutions/MiniKV) | Lightweight Redis-inspired in-memory key-value server with epoll, RESP2, TTL expiry and AOF persistence | C |
-| [**dexdrop**](https://github.com/Dexel-Software-Solutions/dexdrop) | Security scanner for exposed secrets, insecure code patterns, Docker/IaC misconfigurations, GitHub Actions risks and vulnerable dependencies (JSON and SARIF output) | Python |
-| [**pipelineguard**](https://github.com/Dexel-Software-Solutions/pipelineguard) | Zero-dependency CI/CD security auditor with auto-fix, SARIF output, GUI and a reusable GitHub Action | Python |
-| [**PHANTOMNET**](https://github.com/Dexel-Software-Solutions/PHANTOMNET) | Moving Target Defense framework that serves attackers a personalised fake network and captures forensic data | Python |
-| [**MIRAGE**](https://github.com/Dexel-Software-Solutions/MIRAGE) | Deception-first security framework using honeypots, decoy services and attacker behaviour capture | Python |
-| [**VEXA Realtime Chat**](https://github.com/Dexel-Software-Solutions/VEXA-Realtime-Chat-App) | Cross-platform real-time chat app (React Native, Node.js, Socket.io, MySQL) with single active device sessions | TypeScript |
-
----
-
-## Full Project Portfolio
-
-### Security & Defence
-
-| Project | Overview | Language |
-|:--|:--|:--|
-| [GHOSTWRITER](https://github.com/Dexel-Software-Solutions/GHOSTWRITER) | Behavioural threat intelligence engine that tracks attacker patterns | Go |
-| [Phantom Framework](https://github.com/Dexel-Software-Solutions/Phantom-Framework) | Modular pentesting framework: OSINT, DNS recon, scanning, CVE intelligence, reporting | Python |
-| [Auto Bug Finder](https://github.com/Dexel-Software-Solutions/Auto-bug-finder) | Static analyzer for Python and Java with a GUI | Python |
-| [Subdomain Hunter](https://github.com/Dexel-Software-Solutions/Subdomain-hunter) | Multi-source subdomain enumeration with risk scoring | Python |
-| [DEXEL IP INTEL](https://github.com/Dexel-Software-Solutions/DEXEL-IP-INTEL) | IP geolocation, WHOIS, reverse DNS and risk analysis | Python |
-| [Honeypot Detector](https://github.com/Dexel-Software-Solutions/Honeypot-detector) | Local network honeypot detection and analysis | Python |
-| [PortSentinel](https://github.com/Dexel-Software-Solutions/PortSentinel) | Real-time port monitoring and anomaly detection | Java |
-| [CyberForge](https://github.com/Dexel-Software-Solutions/CyberForge) | Pure Bash security toolkit with 20+ modules | Shell |
-| [Advanced Password Security Auditor](https://github.com/Dexel-Software-Solutions/Advanced-Password-Security-Auditor) | Password strength, breach checks and batch analysis | Python |
-| [Anon Encrypter](https://github.com/Dexel-Software-Solutions/Anon-Encrypter) | Multi-layer text and file encryption | Python |
-| [Python Script Encoder](https://github.com/Dexel-Software-Solutions/Python-script-encoder) | CLI encoder using Marshal, Zlib and Base64 layers | Python |
-
-### Applications & Utilities
-
-| Project | Overview | Language |
-|:--|:--|:--|
-| [AI Meeting Assistant](https://github.com/Dexel-Software-Solutions/AI-MEETING-ASSISTANT) | Compact AI-powered meeting overlay | Python |
-| [PythonMasterApp](https://github.com/Dexel-Software-Solutions/PythonMasterApp) | Offline Python learning platform, from fundamentals to security topics | Python |
-| [Linux Command Center](https://github.com/Dexel-Software-Solutions/Linux-Command-Center) | Tkinter GUI with 200+ curated Linux commands | Python |
-| [Medical Centre Management DB](https://github.com/Dexel-Software-Solutions/Medical-Centre-Management-DB) | Normalised MySQL schema with constraints, indexing and sample data | SQL |
-| [Dexel Clock](https://github.com/Dexel-Software-Solutions/Dexel-Clock) | Lightweight desktop clock application | Python |
-
-### Frameworks
-
-| Project | Overview | Language |
-|:--|:--|:--|
-| [NexusJS Framework](https://github.com/Dexel-Software-Solutions/NexusJS-Framework) | Experimental JavaScript framework with signals, router and store | JavaScript |
-| [NovaCSS Framework](https://github.com/Dexel-Software-Solutions/NovaCSS-Framework) | Utility-first CSS framework with dark mode and glassmorphism | CSS |
-
-> **Responsible use:** Security tools in these repositories are provided for education, research and **authorized testing only**. Always get written permission before scanning or testing systems you do not own.
-
----
-
-## GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Core Services
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dexel-Software-Solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0AEFFF&icon_color=0AEFFF&text_color=ffffff" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexel-Software-Solutions&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=c9d1d9" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Dexel-Software-Solutions&theme=tokyonight&hide_border=true&background=0d1117&stroke=0AEFFF&ring=0AEFFF&fire=FF6B35&currStreakLabel=0AEFFF" alt="Contribution streak" />
+| 🖥️ Enterprise Software | 🌐 Web & Mobile Apps | 🤖 AI & Automation |
+|:---:|:---:|:---:|
+| Custom enterprise-grade systems | Full-stack web & mobile engineering | AI-driven systems & intelligent automation |
+| **🔐 Cyber Security** | **🖱️ Desktop Applications** | **⚙️ Business Solutions** |
+| Threat analysis & security tools | Cross-platform desktop apps | Custom workflow optimization |
 
 </div>
 
 ---
 
-## Engineering Standards
-
-| Principle | Practice |
-|:--|:--|
-| Secure by design | Least privilege, input validation, safe defaults |
-| Access control | Role-based access control (RBAC) where applicable |
-| Data protection | Encryption in transit and at rest, compliance awareness |
-| Architecture | Modular, scalable, well-documented code |
-| Quality | Code review, automated checks, performance profiling |
-
----
-
-## Collaboration
-
-We are open to:
-
-- Long-term software projects
-- Security-focused development and audits
-- Startup and SaaS partnerships
-- Open-source collaboration
-
-Contributions are welcome: open an issue or a pull request on any public repository.
-
----
-
-## Contact
-
-| | |
-|:--|:--|
-| **Email** | [dexelsoftwaresolutions@gmail.com](mailto:dexelsoftwaresolutions@gmail.com) |
-| **WhatsApp** | [+94 72 950 4289](https://wa.me/94729504289) |
-| **GitHub** | [@Dexel-Software-Solutions](https://github.com/Dexel-Software-Solutions) |
-| **Location** | Dankotuwa, Sri Lanka |
-
-<!-- Add your LinkedIn and website here once ready:
-| **LinkedIn** | [Dexel Software Solutions](https://www.linkedin.com/company/YOUR-PAGE) |
-| **Website** | [your-domain.com](https://your-domain.com) |
--->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Technology Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0066FF,100:0AEFFF&height=120&section=footer&text=Dexel%20Software%20Solutions&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" alt="Footer" />
+**Languages**
 
-*Secure. Scalable. Intelligent.*
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Flagship Projects
+
+<div align="center">
+
+| 🚀 Project | 🧠 Description | ⚙️ Stack | 🎯 Domain |
+|---|---|---|---|
+| **MIRAGE** | Deception-first security framework with honeypots & attacker traps | Python | 🛡️ Cyber Defense |
+| **Phantom Framework** | Modular pentesting framework with OSINT & automation | Python | 👻 Offensive Security |
+| **Auto Bug Finder** | Static analyzer detecting vulnerabilities in codebases | Python | 🔴 DevSecOps |
+| **Subdomain Hunter** | Multi-source subdomain enumeration & risk scoring | Python | 🌐 Recon |
+| **PortSentinel** | Real-time port monitoring with anomaly detection | Java | 🔬 Network Security |
+| **Linux Command Center** | GUI-based Linux command suite (200+ tools) | Python | 🖥️ Utility |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"> Full Project Portfolio
+
+<div align="center">
+
+| 🧩 Project | 📌 Overview | ⚙️ Tech | 🏷️ Category |
+|---|---|---|---|
+| **GHOSTWRITER** | Behavioral threat intelligence engine tracking attacker patterns | Go | 🛡️ Threat Intelligence |
+| **AI Meeting Assistant** | AI-powered smart meeting overlay & assistant | Python | 🤖 AI Systems |
+| **MIRAGE** | Deception-based cyber defense framework | Python | 🛡️ Security |
+| **Phantom Framework** | Advanced pentesting & recon toolkit | Python | 👻 Offensive Security |
+| **Auto Bug Finder** | Static vulnerability scanner (Python/Java) | Python | 🔴 DevSecOps |
+| **Subdomain Hunter** | Subdomain discovery & recon engine | Python | 🌐 Recon |
+| **DEXEL IP INTEL** | IP intelligence & threat scoring system | Python | 🌍 Intelligence |
+| **Honeypot Detector** | Local network honeypot detection tool | Python | 🛡️ Security |
+| **Anon Encrypter** | Multi-layer encryption system | Python | 🔒 Cryptography |
+| **Password Security Auditor** | Password strength & breach analyzer | Python | 🔐 Security |
+| **CyberForge** | Bash-based cybersecurity toolkit (20+ modules) | Bash | 🔧 Toolkit |
+| **Linux Command Center** | GUI Linux command utility suite | Python | 🖥️ Utility |
+| **PortSentinel** | Network port monitoring system | Java | 🔬 Network |
+| **NexusJS Framework** | Experimental JavaScript framework | JS | ⚡ Framework |
+| **NovaCSS Framework** | Utility-first CSS framework | CSS | 🎨 UI Framework |
+| **Dexel Clock** | Lightweight desktop clock app | Python | ⏰ Utility |
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Metrics
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Dexel-Software-Solutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0AEFFF&icon_color=0AEFFF&text_color=ffffff"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dexel-Software-Solutions&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0AEFFF&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=Dexel-Software-Solutions&theme=tokyonight&hide_border=true&background=0d1117&stroke=0AEFFF&ring=0AEFFF&fire=FF6B35&currStreakLabel=0AEFFF"/>
+
+</div>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Dexel-Software-Solutions&bg_color=0d1117&color=0AEFFF&line=0066FF&point=ffffff&area=true&hide_border=true"
+width="95%"/>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Quality & Security Standards
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║            DEXEL QUALITY ASSURANCE STANDARDS             ║
+╠══════════════════════════════════════════════════════════╣
+║  ✔  Secure-by-Design Development                         ║
+║  ✔  Role-Based Access Control (RBAC)                     ║
+║  ✔  Data Encryption & Compliance Awareness               ║
+║  ✔  Modular & Scalable Architectures                     ║
+║  ✔  Performance Optimization                             ║
+║  ✔  Clean & Maintainable Codebases                       ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Contact & Business Information
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Business_Email-dexelsoftwaresolutions@gmail.com-0AEFFF?style=for-the-badge&labelColor=0d1117)](mailto:dexelsoftwaresolutions@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-Dexel--Software--Solutions-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Dexel-Software-Solutions)
+
+<!-- TODO: replace with your real LinkedIn company/page URL -->
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Dexel_Software_Solutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/company/YOUR-PAGE-HERE)
+
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_with_Dexel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117)](https://wa.me/94729504289)
+
+[![Website](https://img.shields.io/badge/🌍_Website-Coming_Soon-FF6B35?style=for-the-badge&labelColor=0d1117)](#)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="35"> Collaboration & Partnerships
+
+<div align="center">
+
+We are open to working with amazing teams and organizations:
+
+![Long-term Enterprise Projects](https://img.shields.io/badge/✅-Long--term_Enterprise_Projects-0AEFFF?style=flat-square&labelColor=0d1117)
+![Security-focused Development](https://img.shields.io/badge/✅-Security--focused_Development-0AEFFF?style=flat-square&labelColor=0d1117)
+![Startup & SaaS Partnerships](https://img.shields.io/badge/✅-Startup_%26_SaaS_Partnerships-0AEFFF?style=flat-square&labelColor=0d1117)
+![Open-source Collaborations](https://img.shields.io/badge/✅-Open--source_Collaborations-0AEFFF?style=flat-square&labelColor=0d1117)
+
+📩 For inquiries, contact us via **[email](mailto:dexelsoftwaresolutions@gmail.com)** or **[GitHub](https://github.com/Dexel-Software-Solutions)**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+<div align="center">
+
+<!-- Animated Snake Graph - uncomment if the GitHub Actions snake workflow is enabled -->
+<!-- <img src="https://raw.githubusercontent.com/Dexel-Software-Solutions/Dexel-Software-Solutions/output/github-contribution-grid-snake-dark.svg" /> -->
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0066FF,100:0AEFFF&height=120&section=footer&text=Dexel%20Software%20Solutions&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=Dexel-Software-Solutions&label=Company%20Profile%20Views&color=0AEFFF&style=flat-square)
+
+**Dexel Software Solutions**
+*Secure • Scalable • Intelligent Software Engineering*
 
 </div>
